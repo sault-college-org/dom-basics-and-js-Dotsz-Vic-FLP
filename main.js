@@ -1,4 +1,4 @@
-import Index from './scritps/index.js';
+import Index from './scripts/index.js';
 
 Index()
 
